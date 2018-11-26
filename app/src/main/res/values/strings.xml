@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ExAdMob</string>
+    <string name="labelbanner">Banner AdMob</string>
 </resources>
